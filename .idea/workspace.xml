@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="994b4418-bb1e-483e-95ff-80eec757edcb" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SSUI5nECxT2BWM5QBlh0oeIEOt" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/Resources/BrowserDriver" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="OrangeHrmFeature" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mitesh\IdeaProjects\OrangeHrmFeatureFile\src\test\Resources\BrowserDriver" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mitesh\IdeaProjects\OrangeHrmFeatureFile\src\test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.">
+    <configuration type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="OrangeHrmFeatureFile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OrangeHrmFeature.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="OrangeHrmFeature" />
+      <option name="MAIN_CLASS_NAME" value="OrangeHrmFeature.RunTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=firefox -DSauce=true" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OrangeHrmFeatureFile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OrangeHrmFeature.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="OrangeHrmFeature" />
+      <option name="MAIN_CLASS_NAME" value="OrangeHrmFeature.RunTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -Dsauce=true" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BrowserSelector" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OrangeHrmFeatureFile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OrangeHrmFeature.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="OrangeHrmFeature" />
+      <option name="MAIN_CLASS_NAME" value="OrangeHrmFeature.BrowserSelector" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoadProps.test3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OrangeHrmFeatureFile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OrangeHrmFeature.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="OrangeHrmFeature" />
+      <option name="MAIN_CLASS_NAME" value="OrangeHrmFeature.LoadProps" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit." />
+      <item itemvalue="TestNG.BrowserSelector" />
+      <item itemvalue="TestNG.LoadProps.test3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit." />
+        <item itemvalue="TestNG.LoadProps.test3" />
+        <item itemvalue="JUnit.RunTest" />
+        <item itemvalue="TestNG.BrowserSelector" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="994b4418-bb1e-483e-95ff-80eec757edcb" name="Default Changelist" comment="" />
+      <created>1571556407742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571556407742</updated>
+    </task>
+    <servers />
+  </component>
+</project>
